@@ -1,0 +1,23 @@
+PRN,Faculty Code,Faculty Name,Subject Code,Subject Name,Subject Type,Status,Count
+123B58294,15COT3223,Ketan Sanjay Desale,BCE25OE01,DM,Theory,Attended,6
+123B58294,12CT2009,Sushma Rahul Vispute,BCE25PC02,ML,Lab-1,Attended,4
+123B58294,25TCOMP2274,Shriya Ganesh Mundhe,BCE25PC04,TS,Lab-1,Attended,2
+123B58294,15COT3223,Ketan Sanjay Desale,BCE25PC01,TOC,Theory,Attended,9
+123B58294,12CT2009,Sushma Rahul Vispute,BCE25PC02,ML,Theory,Attended,10
+123B58294,25TCOMP2265,Deepali Ravindra Jawale,BCE25PC03,CN&S,Theory,Attended,6
+123B58294,25TCOMP2265,Deepali Ravindra Jawale,BCE25PC03,CN&S,Lab-1,Attended,3
+123B58294,22TAIML2095,Pradnya Gajanan Narkhede,BCS25MD03,GA&T,Theory,Attended,8
+123B58294,23TAIML2171,Pranita Sudhakarrao Chaudhary,BCS25MD04,GA&TL,Lab-1,Attended,2
+123B58294,22TCOMP2024,Shailesh Balasaheb Galande,BCE25PE03,DMW,Theory,Attended,9
+123B58294,25TCOMP2274,Shriya Ganesh Mundhe,BCE25PE03,DMW,Lab-1,Attended,9
+123B58294,15COT3223,Ketan Sanjay Desale,BCE25OE01,DM,Theory,Missed,1
+123B58294,12CT2009,Sushma Rahul Vispute,BCE25PC02,ML,Lab-1,Missed,0
+123B58294,25TCOMP2274,Shriya Ganesh Mundhe,BCE25PC04,TS,Lab-1,Missed,0
+123B58294,15COT3223,Ketan Sanjay Desale,BCE25PC01,TOC,Theory,Missed,0
+123B58294,12CT2009,Sushma Rahul Vispute,BCE25PC02,ML,Theory,Missed,2
+123B58294,25TCOMP2265,Deepali Ravindra Jawale,BCE25PC03,CN&S,Theory,Missed,1
+123B58294,25TCOMP2265,Deepali Ravindra Jawale,BCE25PC03,CN&S,Lab-1,Missed,0
+123B58294,22TAIML2095,Pradnya Gajanan Narkhede,BCS25MD03,GA&T,Theory,Missed,1
+123B58294,23TAIML2171,Pranita Sudhakarrao Chaudhary,BCS25MD04,GA&TL,Lab-1,Missed,0
+123B58294,22TCOMP2024,Shailesh Balasaheb Galande,BCE25PE03,DMW,Theory,Missed,0
+123B58294,25TCOMP2274,Shriya Ganesh Mundhe,BCE25PE03,DMW,Lab-1,Missed,1
